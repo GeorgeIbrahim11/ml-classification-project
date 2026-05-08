@@ -1,1 +1,1 @@
-# ml-classification-project
+# ML-credit-card-default-classification
