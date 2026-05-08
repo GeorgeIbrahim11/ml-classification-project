@@ -37,7 +37,10 @@ Decision threshold set to **0.40** (tuned on validation set, before touching tes
 5. **Modeling** — 4 classifiers with hyperparameter tuning on validation set
 6. **Evaluation** — F1, AUC-ROC, confusion matrices, ROC curves
 
-
+├── CreditCardDefault.ipynb  # Full notebook (runs end-to-end)
+├── Report.docx              # 10-page project report
+├── Presentation.pptx                  # Defense slides
+└── README.md
 
 
 
